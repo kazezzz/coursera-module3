@@ -1,0 +1,24 @@
+/* 必做大区块 */
+.tall-section {
+  background-color: #cccccc;
+  height: 1000px;
+  padding: 15px;
+  margin-bottom:30px;
+}
+
+/* 移动端下拉菜单背景 */
+.navbar-collapse {
+  background-color: #e8e8e8;
+}
+
+.navbar-nav li a {
+  text-align: center;
+  font-size:1.2em;
+}
+
+/* 可选部分菜品区块样式 */
+.food-item{
+  background:#dddddd;
+  padding:15px;
+  margin-bottom:20px;
+}
