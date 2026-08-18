@@ -1,0 +1,21 @@
+.tall-section {
+  background-color: #cccccc;
+  height: 1000px;
+  padding: 15px;
+  margin-bottom:30px;
+}
+
+.navbar-collapse {
+  background-color: #e8e8e8;
+}
+
+.navbar-nav li a {
+  text-align: center;
+  font-size:1.2em;
+}
+
+.food-item{
+  background:#dddddd;
+  padding:15px;
+  margin-bottom:20px;
+}
